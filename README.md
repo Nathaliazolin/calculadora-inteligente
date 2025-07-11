@@ -1,6 +1,6 @@
 # 🧮 Calculadora Inteligente
 
-Este projeto é uma calculadora inteligente criada com [descreva a linguagem usada, ex: Python/Bash], que realiza operações matemáticas de forma eficiente.
+Este projeto é uma calculadora inteligente criada com PYTHON, que realiza operações matemáticas de forma eficiente.
 
 ---
 
